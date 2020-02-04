@@ -10,9 +10,9 @@ For each posting, Amir took the job title, the job location, the job posting dat
 
 1. How old are the postings? To describe the trend in the number of uncovered positions, plot the monthly number of postings.
 
-2. Suppose that a software developer is interested in finding a position in India. Does Amazon have something for him/her? In which locations?
+2. Which are the top-ten locations for software developers at Amazon? Suppose that a software developer is interested in finding a position in India. Does Amazon have something for him/her? In which locations?
 
-3. How many postings have missing data? Create a function `f` which counts the the missing values in a Pandas series. By using the command `df.apply(f, axis=0)` calculate the number of missing values for every column of the data set.
+3. How many postings have missing data? Can you find them? 
 
 4. Which programming languages are more often mentioned in the basic qualifications for these positions? Perhaps Java or Python? Which flavor of C is preferred, C++ or C#? Is SQL still demanded?
 
