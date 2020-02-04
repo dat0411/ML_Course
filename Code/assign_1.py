@@ -1,8 +1,6 @@
 ## Assignment 1 - Airbnb postings in New York City ##
 
-cd 'Dropbox/ML-2020-1/Assignment 1'
-
-# Importing data #
+# Importing data (use the appropriate path) #
 import pandas as pd
 df = pd.read_csv('airbnb.csv')
 
